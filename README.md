@@ -242,7 +242,7 @@ See [`docs/wiring/`](docs/wiring/) for annotated connection diagram.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/intelligent-edge-security.git
+git clone https://github.com/wahomekevinmwas/intelligent-edge-security.git
 cd intelligent-edge-security
 
 # Create virtual environment
