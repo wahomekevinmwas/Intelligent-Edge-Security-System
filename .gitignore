@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Camera snapshots (large files — commit selectively)
+snapshots/
+*.jpg
+*.jpeg
+!docs/screenshots/*.png
+
+# Arduino build artifacts
+*.elf
+*.hex
+*.map
+build/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+event_log.csv
+
+# Secrets / config overrides
+config_local.py
