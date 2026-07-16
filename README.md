@@ -242,8 +242,8 @@ See [`docs/wiring/`](docs/wiring/) for annotated connection diagram.
 
 ```bash
 # Clone the repo
-git clone https://github.com/wahomekevinmwas/intelligent-edge-security.git
-cd intelligent-edge-security
+git clone https://github.com/wahomekevinmwas/Intelligent-Edge-Security-System.git
+cd Intelligent-Edge-Security-System
 
 # Create virtual environment
 python -m venv venv
@@ -415,9 +415,9 @@ This project was submitted as the MSc Mini Project for **SCS 6106: Embedded Inte
 - Sub-KES 7,000 component cost for a system that replicates cloud-subscription-gated features of commercial smart locks
 
 **Related projects:**
-- [livestock-monitor](https://github.com/YOUR_USERNAME/livestock-monitor)
-- [procurement-management-system](https://github.com/YOUR_USERNAME/procurement-management-system)
 
+- [livestock-monitor](https://github.com/wahomekevinmwas/livestock-monitor) — Django livestock disease monitoring
+- [agroinfoshield](https://github.com/wahomekevinmwas/agroinfoshield) — multilingual RAG fact-checking dashboard
 ---
 
 ## License
